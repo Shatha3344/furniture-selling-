@@ -7,6 +7,10 @@
 تجربة تسوق سهلة: يوفر الموقع واجهة مستخدم بسيطة وسهلة الاستخدام، حيث يمكنك تصفح المنتجات وإضافتها إلى سلة التسوق وإتمام عملية الشراء بسهولة.
 توصيل سريع: نحن نقدم خدمة توصيل سريعة وموثوقة لجميع الطلبات، لتتمتع بأثاثك الجديد في وقت قصير.
 
+![Homepage Screenshot 1](mainpage.png)
+![Homepage Screenshot 2](main2.png)
+![Homepage Screenshot 3](main3.png)
+
 <h2>Homepage Screenshots</h2>
 <figure>
   <img src="furniture-selling-/mainpage.png" alt="Homepage Screenshot 1" width="400">
