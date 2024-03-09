@@ -6,26 +6,11 @@
 جودة عالية: نحن نعمل فقط مع الموردين والشركات المصنعة ذات الجودة العالية لضمان أن يحصل عملاؤنا على أثاث متين وعالي الجودة.
 تجربة تسوق سهلة: يوفر الموقع واجهة مستخدم بسيطة وسهلة الاستخدام، حيث يمكنك تصفح المنتجات وإضافتها إلى سلة التسوق وإتمام عملية الشراء بسهولة.
 توصيل سريع: نحن نقدم خدمة توصيل سريعة وموثوقة لجميع الطلبات، لتتمتع بأثاثك الجديد في وقت قصير.
-
+<h2>Homepage Screenshots</h2>
+    
 ![Homepage Screenshot 1](mainpage.png)
 ![Homepage Screenshot 2](main2.png)
 ![Homepage Screenshot 3](main3.png)
-
-<h2>Homepage Screenshots</h2>
-<figure>
-  <img src="furniture-selling-/mainpage.png" alt="Homepage Screenshot 1" width="400">
-  <figcaption>Homepage Screenshot 1</figcaption>
-</figure>
-<figure>
-  <img src="furniture-selling-/main2.png" alt="Homepage Screenshot 2" width="400">
-  <figcaption>Homepage Screenshot 2</figcaption>
-</figure>
-<figure>
-  <img src="furniture-selling-/main3.png" alt="Homepage Screenshot 3" width="400">
-  <figcaption>Homepage Screenshot 3</figcaption>
-</figure>
-
-
 
 
 
